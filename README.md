@@ -1,16 +1,16 @@
-## Hi there 👋
+# Prateek Nigam
+Software & Data Engineer.
 
-<!--
-**prateeekglitch/prateeekglitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build backend systems, data pipelines, and machine learning algorithms. I focus on low-latency infrastructure, clean logic, and getting models out of notebooks and into production. 
 
-Here are some ideas to get you started:
+**The Stack**
+- **Languages:** C++, Python, SQL, JavaScript
+- **Infrastructure:** AWS (S3, Athena, EC2), Node.js, PostgreSQL
+- **Data:** Scikit-Learn, XGBoost, Pandas, PowerBI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Recent Work**
+- **Streamify:** WebRTC real-time messaging backend.
+- **AWS Churn Engine:** Serverless ML pipeline querying 500k+ rows.
+- **GA4 Analytics:** SQL ETL funnels quantifying e-commerce revenue leakage.
+
+[LinkedIn](www.linkedin.com/in/prateek-n-185415275)
