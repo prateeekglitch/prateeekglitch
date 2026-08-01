@@ -1,16 +1,14 @@
 # Prateek Nigam
-Software & Data Engineer.
-
-I build backend systems, data pipelines, and machine learning algorithms. I focus on low-latency infrastructure, clean logic, and getting models out of notebooks and into production. 
-
+Data Analyst | Machine Learning | GenAI Systems.
+I build predictive models, RAG/GenAI systems, and BI dashboards — prioritizing business-defensible decisions (threshold tuning, leakage-safe features, guardrail testing) over metric-maximization for its own sake.
 **The Stack**
-- **Languages:** C++, Python, SQL, JavaScript
-- **Infrastructure:** AWS (S3, Athena, EC2), Node.js, PostgreSQL
-- **Data:** Scikit-Learn, XGBoost, Pandas, PowerBI
-
+- **Languages:** Python, SQL
+- **ML:** Scikit-Learn, XGBoost, imbalanced-learn, RandomizedSearchCV
+- **GenAI:** LangChain, LangGraph, RAGAS, Presidio, FastAPI
+- **BI:** Power BI, DAX
+- **Deployment:** Docker, FastAPI, Gradio, Hugging Face Spaces
 **Recent Work**
-- **Streamify:** WebRTC real-time messaging backend.
-- **AWS Churn Engine:** Serverless ML pipeline querying 500k+ rows.
-- **GA4 Analytics:** SQL ETL funnels quantifying e-commerce revenue leakage.
-
-[LinkedIn](www.linkedin.com/in/prateek-n-185415275)
+- **NBFC Loan Default Prediction:** Credit-risk classification model — target-encoded state default rates (leakage-checked), benchmarked against 8 baseline models, threshold tuned to 0.29 to hit ≥0.80 recall on defaults, AUC-PR over ROC-AUC for class imbalance.
+- **RAG Evaluation System:** Multi-strategy retrieval pipeline with 4-layer guardrails (PII sanitization, prompt-injection defense), RAGAS-scored output quality, 56 unit tests, containerized.
+- **Regional Sales Analysis (Power BI):** Audited a "clean" retail dataset, caught 3 structural bugs before analysis, surfaced a Pareto insight — top 20% of customers driving 26.8% of revenue.
+[LinkedIn](https://www.linkedin.com/in/prateek-n-185415275)
